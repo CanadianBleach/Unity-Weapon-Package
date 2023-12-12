@@ -11,10 +11,3 @@ I used unity and visual studio to create this project. I also used a few sites f
 {Make a list of websites that you found helpful in this project}
 * [Nav Mesh](https://docs.unity3d.com/Manual/nav-BuildingNavMesh.html)
 * [Casting Interfaces](https://stackoverflow.com/questions/619716/why-cast-to-an-interface)
-
-# Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Create waves of destroyable enemies
-* Re-texture everything to make it look good
-* Add sounds
